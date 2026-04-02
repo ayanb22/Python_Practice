@@ -10,3 +10,9 @@ My python learning journey-building strong programming fundamentals through dail
 3. Fibonacci Series
 4. Counting ODD & EVEN Numbers
 
+# Day 2
+# Problem Solved
+1. Factors of a Number(Count + Factors)
+2. Fibonacci Series(Within a range)
+3. Checking Palindrom Number
+4. Checking Prime Number
