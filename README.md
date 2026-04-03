@@ -16,3 +16,5 @@ My python learning journey-building strong programming fundamentals through dail
 2. Fibonacci Series(Within a range)
 3. Checking Palindrom Number
 4. Checking Prime Number
+5. Checking Armstrong Number
+6. Checking Strong Number
