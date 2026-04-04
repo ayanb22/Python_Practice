@@ -18,3 +18,10 @@ My python learning journey-building strong programming fundamentals through dail
 4. Checking Prime Number
 5. Checking Armstrong Number
 6. Checking Strong Number
+
+# Day 3
+# Problem Solved
+1. Pattern : Left aligned triangle
+2. Pattern : Left aligned reverse triangle
+3. Pattern : Right aligned triangle
+4. Pattern : Hollow Square
