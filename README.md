@@ -25,3 +25,8 @@ My python learning journey-building strong programming fundamentals through dail
 2. Pattern : Left aligned reverse triangle
 3. Pattern : Right aligned triangle
 4. Pattern : Hollow Square
+
+# Day 4
+# Problem Solved
+1. Pattern : Number Pyramid
+2. Pattern : Centered star Pyramid
