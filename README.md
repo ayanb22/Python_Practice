@@ -30,3 +30,10 @@ My python learning journey-building strong programming fundamentals through dail
 # Problem Solved
 1. Pattern : Number Pyramid
 2. Pattern : Centered star Pyramid
+
+# Day 5
+# Problem Solve
+1. Pattern : Palindrome Pyramid
+2. Pattern : Increasing Number Pyramid
+3. Pattern : Left aligned hollow pyramid
+4. Pattern : Centered hollow pyramid
