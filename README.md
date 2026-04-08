@@ -36,6 +36,12 @@ My Python learning journey — building strong programming fundamentals through 
 ## Day 5
 ### Problems Solved
 1. Pattern: Palindrome Pyramid
-2. Pattern: Increasing Number Pyramid
+2. Pattern: Floyd Number Pyramid
 3. Pattern: Left Aligned Hollow Pyramid
 4. Pattern: Centered Hollow Pyramid
+
+## Day 6
+### Problems Solved
+1. Pattern: Solid Diamond
+2. Pattern: Hollow Diamond
+3. Pattern: Solid Butterfly
