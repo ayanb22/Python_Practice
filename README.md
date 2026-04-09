@@ -45,3 +45,13 @@ My Python learning journey — building strong programming fundamentals through 
 1. Pattern: Solid Diamond
 2. Pattern: Hollow Diamond
 3. Pattern: Solid Butterfly
+
+---
+
+# Function Practice
+
+## Day 1
+### Problems Solved
+1. Prime Number Check
+2. Fibonacci Series
+3. Palindrome Number Check
