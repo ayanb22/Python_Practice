@@ -1,4 +1,4 @@
-def fibonacci (n = int(input("Enter the range of fibonacci series : "))):
+def fibonacci (n):
     first_digit = 0
     second_digit = 1
     fibonacci_Series = []
@@ -10,4 +10,5 @@ def fibonacci (n = int(input("Enter the range of fibonacci series : "))):
         
     print(fibonacci_Series)
 
-fibonacci()
+number_range = int(input("Enter the range of fibonacci series : "))
+fibonacci(number_range)

@@ -1,4 +1,4 @@
-def palindrome_number(n = int(input("Enter the number : "))):
+def palindrome_number(n):
     actual_value = n
     reverse_value = 0
 
@@ -12,4 +12,6 @@ def palindrome_number(n = int(input("Enter the number : "))):
     else:
         print("The number is not a Palindrome Number")
 
-palindrome_number()
+number = int(input("Enter the number : "))
+
+palindrome_number(number)
