@@ -55,3 +55,8 @@ My Python learning journey — building strong programming fundamentals through 
 1. Prime Number Check
 2. Fibonacci Series
 3. Palindrome Number Check
+
+## Day 2
+1. Armstrong Number Check
+2. Odd & Even Count
+3. Factorial of a Number
