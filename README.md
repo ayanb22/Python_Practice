@@ -57,6 +57,13 @@ My Python learning journey — building strong programming fundamentals through 
 3. Palindrome Number Check
 
 ## Day 2
+### Problems Solved
 1. Armstrong Number Check
 2. Odd & Even Count
 3. Factorial of a Number
+
+## Day 3
+### Problems Solved
+1. Largest digit
+2. Perfect Number Check
+3. Revers a Number
