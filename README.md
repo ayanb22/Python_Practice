@@ -68,6 +68,5 @@ My Python learning journey — building strong programming fundamentals through 
 2. Perfect Number Check
 3. Reverse a Number
 
-
+## Day 4
 1. Prime Number in range
-2. 
