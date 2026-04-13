@@ -66,4 +66,8 @@ My Python learning journey — building strong programming fundamentals through 
 ### Problems Solved
 1. Largest digit
 2. Perfect Number Check
-3. Revers a Number
+3. Reverse a Number
+
+
+1. Prime Number in range
+2. 
