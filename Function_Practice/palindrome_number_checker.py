@@ -1,6 +1,9 @@
 def palindrome_number(n):
     actual_value = n
     reverse_value = 0
+    if n < 0:
+        print("This number is not Palindrome Number")
+        return
 
     while n > 0:
         remainder = n % 10
