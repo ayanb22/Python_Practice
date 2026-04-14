@@ -1,10 +1,11 @@
 def largest_number(n):
-    largest_digit = n % 10
-    while n >0:
-        remainder = n % 10
+    num = abs(n)
+    largest_digit = num % 10
+    while num >0:
+        remainder = num % 10
         if(remainder > largest_digit):
             largest_digit = remainder
-        n = n // 10
+        num = num // 10
     
     return(largest_digit)
 
