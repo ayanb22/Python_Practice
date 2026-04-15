@@ -69,4 +69,10 @@ My Python learning journey — building strong programming fundamentals through 
 3. Reverse a Number
 
 ## Day 4
+### Problems Solved
 1. Prime Number in range
+
+## Day 5
+### Problems Solved
+1. Highest Common Factor
+2. Least Common Multiple
