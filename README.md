@@ -46,6 +46,10 @@ My Python learning journey — building strong programming fundamentals through 
 2. Pattern: Hollow Diamond
 3. Pattern: Solid Butterfly
 
+## Day 7
+### Problems Solved
+1. Pattern: Hollow Butterfly
+
 ---
 
 # Function Practice
