@@ -80,3 +80,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Problems Solved
 1. Highest Common Factor
 2. Least Common Multiple
+
+## Day 6
+### Problems Solved
+1. Second highest digit of a number
