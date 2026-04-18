@@ -84,3 +84,13 @@ My Python learning journey — building strong programming fundamentals through 
 ## Day 6
 ### Problems Solved
 1. Second highest digit of a number
+
+---
+
+# Recursion Practice
+
+
+## Day 1
+### Problems solved
+1. Factorial of a Number
+2. Sum of Digit of a Number
