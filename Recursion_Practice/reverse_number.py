@@ -9,4 +9,4 @@ def reverse_number(n):
 
 number = int(input("Enter the number : "))
 result = reverse_number(number)
-print(result)
+print(f"The reverse of {number} :  {result}")
