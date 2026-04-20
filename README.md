@@ -94,3 +94,9 @@ My Python learning journey — building strong programming fundamentals through 
 ### Problems solved
 1. Factorial of a Number
 2. Sum of Digit of a Number
+
+## Day 2
+### Problems Solved
+1. Reverse a Number
+2. Power Function
+3. Palindrome Check
