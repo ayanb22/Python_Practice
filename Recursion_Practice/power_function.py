@@ -1,4 +1,5 @@
 def power_function(n, x):
+    
     if n == 0 and x < 0:
         raise ValueError("undefined")
     x = abs(x)
@@ -15,6 +16,7 @@ try :
     if power < 0:
         result = 1 / result
     print(f"The result is : {result}") 
+
 except ValueError as e:
     print(e)
     
