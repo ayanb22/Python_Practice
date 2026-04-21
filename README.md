@@ -100,3 +100,14 @@ My Python learning journey — building strong programming fundamentals through 
 1. Reverse a Number
 2. Power Function
 3. Palindrome Check
+
+
+---
+
+# DSA Practice
+
+## Array Problems
+
+### Day 1
+#### Problems Solved
+1. Pair sum
