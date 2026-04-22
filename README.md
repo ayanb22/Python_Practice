@@ -110,4 +110,8 @@ My Python learning journey — building strong programming fundamentals through 
 
 ### Day 1
 #### Problems Solved
-1. Pair sum
+1. Pair Sum
+
+### Day 2
+#### Problems Solved
+1. Duplicate Remove
