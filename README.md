@@ -85,6 +85,10 @@ My Python learning journey — building strong programming fundamentals through 
 ### Problems Solved
 1. Second highest digit of a number
 
+## Day 7
+### Problems Solved
+1. Counting Vowels
+
 ---
 
 # Recursion Practice
