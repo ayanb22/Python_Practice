@@ -89,6 +89,10 @@ My Python learning journey — building strong programming fundamentals through 
 ### Problems Solved
 1. Counting Vowels
 
+## Day 8
+### Problems Solved
+1. First Non-Repeating Character
+
 ---
 
 # Recursion Practice
