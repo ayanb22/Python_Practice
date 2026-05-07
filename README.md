@@ -123,3 +123,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 2
 #### Problems Solved
 1. Duplicate Remove
+
+### Day 3
+#### Problems Solved
+1. Moving "0" to the end of the List
