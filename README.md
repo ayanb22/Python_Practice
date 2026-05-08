@@ -127,3 +127,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 3
 #### Problems Solved
 1. Moving "0" to the end of the List
+
+### Day 4
+#### Problems Solved
+1. Find Duplicate elements in a list
