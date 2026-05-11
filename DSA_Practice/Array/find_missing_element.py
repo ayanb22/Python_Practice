@@ -19,8 +19,7 @@ def missing_element(n):
                     print("No Duplicate number is allowed")
         i += 1
     
-    total = (n * (n+1))/2
-    total = total // 10
+    total = (n * (n+1))//2
     sum_input = sum(input_list)
 
     missing_element = total - sum_input
