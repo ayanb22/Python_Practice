@@ -135,3 +135,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 5
 #### Problems Solved
 1. Given a sequence of numbers from 1 to n with one missing element, find the missing number.
+
+### Day 6
+#### Problems Solved
+1. Finding Common Element in Two Different Lists
