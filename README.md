@@ -139,3 +139,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 6
 #### Problems Solved
 1. Finding Common Element in Two Different Lists
+
+### Day 7
+#### Problems Solved
+1. Frequency of a Number in a List
