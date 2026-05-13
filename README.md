@@ -143,3 +143,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 7
 #### Problems Solved
 1. Frequency of a Number in a List
+
+### Day 8
+#### Problems Solved
+1. Find Pair with Given or Target Sum
