@@ -147,3 +147,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 8
 #### Problems Solved
 1. Find Pair with Given or Target Sum
+
+### Day 9
+#### Problems Solved
+1. Find The Largest Number in a List
