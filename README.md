@@ -151,3 +151,8 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 9
 #### Problems Solved
 1. Find The Largest Number in a List
+
+### Day 10
+#### Problems Solved
+1. Find The Smallest Number in a List
+
