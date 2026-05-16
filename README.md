@@ -156,3 +156,7 @@ My Python learning journey — building strong programming fundamentals through 
 #### Problems Solved
 1. Find The Smallest Number in a List
 
+### Day 11
+#### Problems Solved
+1. Count Positive & Negative Numbers in a List
+
