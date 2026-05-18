@@ -160,3 +160,6 @@ My Python learning journey — building strong programming fundamentals through 
 #### Problems Solved
 1. Count Positive & Negative Numbers in a List
 
+### Day 12
+#### Problems Solved
+1. Find the Difference Between Largest and Smallest Element
