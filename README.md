@@ -163,3 +163,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 12
 #### Problems Solved
 1. Find the Difference Between Largest and Smallest Element
+
+### Day 13
+#### Problems Solved
+1. Count How Many Times a Target Appears in a List
