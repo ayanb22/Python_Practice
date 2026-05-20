@@ -167,3 +167,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 13
 #### Problems Solved
 1. Count How Many Times a Target Appears in a List
+
+### Day 14
+#### Problems Solved
+1. Find All Elements Greater Than a Target Number
