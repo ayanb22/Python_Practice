@@ -171,3 +171,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 14
 #### Problems Solved
 1. Find All Elements Greater Than a Target Number
+
+### Day 15
+#### Problems Solved
+1. Second Smallest Number in a List
