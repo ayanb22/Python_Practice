@@ -114,8 +114,6 @@ My Python learning journey — building strong programming fundamentals through 
 
 # DSA Practice
 
-## Array Problems
-
 ### Day 1
 #### Problems Solved
 1. Pair Sum
@@ -175,3 +173,12 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 15
 #### Problems Solved
 1. Second Smallest Number in a List
+
+
+---
+
+# OOPS Practice
+
+### Day 1
+#### Problems Solved
+1. Basic Bank System
