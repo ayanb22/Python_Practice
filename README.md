@@ -182,3 +182,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 1
 #### Problems Solved
 1. Basic Bank System
+
+### Day 2
+#### Problems Solved
+1. Basic Grading System
