@@ -186,3 +186,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 2
 #### Problems Solved
 1. Basic Grading System
+
+### Day 3
+#### Problems Solved
+1. Employee Bonus Calculation and Final Salary Calculation
