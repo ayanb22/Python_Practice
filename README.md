@@ -190,3 +190,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 3
 #### Problems Solved
 1. Employee Bonus Calculation and Final Salary Calculation
+
+### Day 4
+#### Problems Solved
+1. Basic Movie Ticket System
