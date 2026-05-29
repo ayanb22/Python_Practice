@@ -194,3 +194,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 4
 #### Problems Solved
 1. Basic Movie Ticket System
+
+### Day 5
+#### Problems Solved
+1. Electricity Bill System
