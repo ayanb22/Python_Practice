@@ -198,3 +198,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 5
 #### Problems Solved
 1. Electricity Bill System
+
+### Day 6
+#### Problems Solved
+1. Library Fine System
