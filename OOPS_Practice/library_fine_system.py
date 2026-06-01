@@ -19,9 +19,9 @@ class LibraryFine:
     def book_status(self):
         days_late = self.days_late
         if days_late > 0:
-            print("Returned Late")
+            return ("Returned Late")
         else:
-            print("Returned in Time")
+            return ("Returned in Time")
         
     
     
@@ -31,7 +31,7 @@ book_name = input("Enter Book Name : ")
 
 student = LibraryFine(name, days_late, book_name)
 print(f"Name : {student.name}")
-print(f"Book Nmae : {student.book_name}")
+print(f"Book Name : {student.book_name}")
 print(f"Days Late : {student.days_late}")
-student.book_status()
+print(student.book_status())
 print(f"Fine : {student.fine_calculation()}")
