@@ -202,3 +202,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 6
 #### Problems Solved
 1. Library Fine System
+
+### Day 7
+#### Problems Solved
+1. Recharge System
