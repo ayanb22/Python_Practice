@@ -206,3 +206,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 7
 #### Problems Solved
 1. Recharge System
+
+### Day 8
+#### Problems Solved
+1. Gym Membership
