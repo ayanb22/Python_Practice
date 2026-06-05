@@ -211,6 +211,6 @@ My Python learning journey — building strong programming fundamentals through 
 #### Problems Solved
 1. Gym Membership
 
-### Day 8
+### Day 9
 #### Problems Solved
 1. Hotel Booking 
