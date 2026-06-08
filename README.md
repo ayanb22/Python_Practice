@@ -174,7 +174,6 @@ My Python learning journey — building strong programming fundamentals through 
 #### Problems Solved
 1. Second Smallest Number in a List
 
-
 ---
 
 # OOPS Practice
@@ -214,3 +213,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 9
 #### Problems Solved
 1. Hotel Booking 
+
+### Day 10
+#### Problems Solved
+1. Parking Ticket System
