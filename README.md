@@ -217,3 +217,7 @@ My Python learning journey — building strong programming fundamentals through 
 ### Day 10
 #### Problems Solved
 1. Parking Ticket System
+
+### Day 11
+#### Problems Solved
+1. Restaurant Bill System
