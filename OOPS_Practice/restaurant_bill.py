@@ -10,9 +10,9 @@ class RestaurantBill:
     def service_charge(self):
         bill = self.bill
         if bill >= 2000:
-            service = bill * 0.1
+            service = round(bill * 0.1)
         elif bill >= 500:
-            service = bill * 0.05
+            service = round(bill * 0.05)
         else:
             service = 0
         return service
@@ -30,8 +30,8 @@ customer = RestaurantBill(name, bill)
 customer.restaurant_name()
 
 print(f"Name : {customer.name}")
-print(f"Bill : {customer.bill}")
+print(f"Bill : ₹{customer.bill}")
 print()
-print(f"Service Charge : {customer.service_charge()}")
-print(f"Final Bill : {customer.final_bill()}")
+print(f"Service Charge : ₹{customer.service_charge()}")
+print(f"Final Bill : ₹{customer.final_bill()}")
     
