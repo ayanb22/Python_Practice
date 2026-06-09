@@ -20,7 +20,7 @@ class RestaurantBill:
     def final_bill(self):
         bill = self.bill
         service_charge = self.service_charge()
-        bill = bill - service_charge 
+        bill = bill + service_charge 
         return bill
     
 name = input("Enter Your name : ")
