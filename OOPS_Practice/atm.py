@@ -1,4 +1,7 @@
 class ATM:
+    @staticmethod
+    def bank_name():
+        print("Welcome to ABC Bank....")
     def __init__(self, name, balance):
         self.name = name
         self.balance = balance
@@ -10,21 +13,24 @@ class ATM:
                 
                 self.balance += amount
                 print(f"Amount Rs.{amount} is credited")
+                print(f"Your Current Balance is {self.balance}")
+                print("Deposit Successful")
                 break
             else:
                 print("Try again that is an invalid amount....")
                 amount = int(input("Enter the amount you want to deposit : "))
     
     def withdraw(self, amount):
-        balance = self.balance
         self.amount = amount
         while True:
-            if amount > balance:
+            if amount > self.balance:
                 print("Try again that is an invalid amount....")
                 amount = int(input("Enter the amount you want to withdraw : "))
             else:
                 self.balance -= amount               
                 print(f"Amount Rs.{amount} is debited")
+                print(f"Your Current Balance is {self.balance}")
+                print("Withdrawal Successful")
                 break
         
 
@@ -35,6 +41,8 @@ class ATM:
 name = input("Enter your name : ")
 balance = int(input("Enter your current balance : "))
 customer = ATM(name, balance)
+customer.bank_name()
+print(f"Welcome, {customer.name}")
 while True:
     response = int(input("Type what you want to do 1 for 'Check balance', 2 for 'Withdraw' and 3 for deposit :"))
     if response == 1:
@@ -43,15 +51,14 @@ while True:
     elif response == 2:
         amount = int(input("Enter the amount you want to withdraw : "))
         customer.withdraw(amount)
-        customer.checkbalance()
         break
     elif response == 3:
         amount = int(input("Enter the amount you want to deposit : "))
         customer.deposit(amount)
-        customer.checkbalance()
         break
     else:
-        print("Invalid input try again....")
+         print("Invalid input try again....")
+
 
         
 
